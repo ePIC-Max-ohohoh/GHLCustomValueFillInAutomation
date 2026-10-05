@@ -1,0 +1,37 @@
+# Contact-level fields are documented for future phases and never processed by Phase 1.
+advisor_facebook: {enabled: false, group: advisor}
+eplan_payment_link: {enabled: false, group: advisor}
+stress_test_link: {enabled: false, group: advisor}
+iepm_link: {enabled: false, group: advisor}
+company_logo: {enabled: false, group: advisor}
+headshot: {enabled: false, group: advisor}
+instagram: {enabled: false, group: advisor}
+twitter: {enabled: false, group: advisor}
+linkedin: {enabled: false, group: advisor}
+professional_bio: {enabled: false, group: advisor}
+insurance_license_: {enabled: false, group: advisor}
+preferred_name: {enabled: false, group: advisor}
+certifications: {enabled: false, group: advisor}
+title: {enabled: false, group: advisor}
+advisor_phone: {enabled: false, group: advisor}
+package_type: {enabled: false, group: advisor}
+first_name: {enabled: false, group: standard}
+last_name: {enabled: false, group: standard}
+email: {enabled: false, group: standard}
+phone: {enabled: false, group: standard}
+date_of_birth: {enabled: false, group: standard}
+source: {enabled: false, group: standard}
+type: {enabled: false, group: standard}
+company_name: {enabled: false, group: standard}
+address1: {enabled: false, group: standard}
+city: {enabled: false, group: standard}
+country: {enabled: false, group: standard}
+state: {enabled: false, group: standard}
+postal_code: {enabled: false, group: standard}
+website: {enabled: false, group: standard}
+timezone: {enabled: false, group: standard}
+message: {enabled: false, group: standard}
+reason_for_unsubscribing: {enabled: false, group: standard}
+reason_for_unsubscribing_other: {enabled: false, group: standard}
+clickup_task_id: {enabled: false, group: standard}
+

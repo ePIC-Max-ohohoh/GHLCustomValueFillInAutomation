@@ -1,0 +1,9 @@
+advisor_website: {enabled: false, status: legacy, preferred_key: advisor_website_url}
+advisor_booking_link: {enabled: false, status: legacy, preferred_key: meeting_link}
+advisor_emailaddress: {enabled: false, status: legacy, preferred_key: advisor_email}
+advisor_phone_number: {enabled: false, status: legacy, preferred_key: advisor_phone}
+contact_advisor_name: {enabled: false, status: legacy, preferred_key: advisor_name}
+logo: {enabled: false, status: legacy, preferred_key: advisor_logo_url}
+kaizen_brochure: {enabled: false, status: unresolved}
+kaizen__greatest_wealth_transfer: {enabled: false, status: unresolved}
+"calendar - jim wright": {enabled: false, status: unresolved}

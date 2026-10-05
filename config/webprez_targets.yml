@@ -1,0 +1,42 @@
+# Exact WebPrez category and title aliases for the first read-only proof of concept.
+# The first exact visible title is used; fuzzy title matching is intentionally disabled.
+targets:
+  - category: "Estate Life Insurance"
+    titles:
+      - "Living Trust"
+      - "Avoid Probate with a Living Trust"
+
+  - category: "Fixed & Indexed Annuities"
+    titles:
+      - "FIA / ADL"
+      - "FIA/ADL"
+      - "Asset Elder Care Bridge"
+
+  - category: "Estate Life Insurance"
+    titles:
+      - "Beneficiary Liquidity Account"
+      - "Funeral Cash Reserve"
+
+  - category: "Retirement Life Insurance"
+    titles:
+      - "Retirement Life Insurance"
+      - "Tax-Free Retirement Income"
+
+  - category: "Fixed & Indexed Annuities"
+    titles:
+      - "Indexed Annuity"
+      - "Retirement Savings Without Investment Losses"
+
+  - category: "Financial Security"
+    titles:
+      - "Triple Compound Interest"
+
+  - category: "Fixed & Indexed Annuities"
+    titles:
+      - "Retirement Savings Risk"
+      - "Are Your Retirement Savings at Risk"
+
+  - category: "Estate Life Insurance"
+    titles:
+      - "Estate Planning"
+      - "Estate Planning (End of Life)"

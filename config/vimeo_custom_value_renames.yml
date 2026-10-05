@@ -1,0 +1,34 @@
+renames:
+  - old_key: advisorvimeovideo1
+    new_key: vimeo_01_built_for_rising_interest_rates
+    name: "01. Built for Rising Interest Rates"
+  - old_key: advisorvimeovideo2
+    new_key: vimeo_02_as_an_alternative_to_fixed_assets
+    name: "02. As an Alternative to Fixed Assets"
+  - old_key: advisorvimeovideo3
+    new_key: vimeo_03_kai_zen_for_executives
+    name: "03. Kai-Zen for Executives"
+  - old_key: advisorvimeovideo4
+    new_key: vimeo_04_kai_zen_for_physicians
+    name: "04. Kai-Zen for Physicians"
+  - old_key: advisorvimeovideo5
+    new_key: vimeo_05_the_greatest_wealth_transfer
+    name: "05. The Greatest Wealth Transfer"
+  - old_key: advisorvimeovideo6
+    new_key: vimeo_06_the_next_best_thing_you_dont_want_to_miss
+    name: "06. The Next Best Thing You Don't Want to Miss"
+  - old_key: advisorvimeovideo7
+    new_key: vimeo_07_kai_zen_60_seconds
+    name: "07. Kai-Zen 60 Seconds"
+  - old_key: advisorvimeovideo8
+    new_key: vimeo_08_kai_zen_recruit_and_retain
+    name: "08. Kai-Zen Recruit & Retain"
+  - old_key: advisorvimeovideo9
+    new_key: vimeo_09_kai_zen_for_individuals
+    name: "09. Kai-Zen for Individuals"
+  - old_key: advisorvimeovideo10
+    new_key: vimeo_10_kai_zen_mortgage_analog
+    name: "10. Kai-Zen Mortgage Analog"
+  - old_key: advisorvimeovideo11
+    new_key: vimeo_11_how_kai_zen_works
+    name: "11. How Kai-Zen Works"

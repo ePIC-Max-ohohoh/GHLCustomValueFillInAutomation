@@ -1,0 +1,82 @@
+# Only enabled keys may be updated. Display names are exact fallback matches used
+# only when a live API record does not expose fieldKey.
+advisor_name: {enabled: true, display_name: "Advisor Name", category: advisor_information}
+advisor_firm_name: {enabled: true, display_name: "Advisor Firm Name", category: advisor_information}
+advisor_phone: {enabled: true, display_name: "Advisor Phone", category: advisor_information}
+advisor_email: {enabled: true, display_name: "Advisor Email", category: advisor_information}
+advisor_bio: {enabled: true, display_name: "Advisor Bio", category: advisor_information}
+advisor_credentials: {enabled: true, display_name: "Advisor Credentials", category: advisor_information}
+advisor_crd_number: {enabled: true, display_name: "Advisor CRD Number", category: advisor_information}
+advisor_calendar: {enabled: true, display_name: "Advisor Calendar", category: advisor_information}
+advisor_headshot_url: {enabled: true, display_name: "Advisor Headshot URL", category: advisor_information}
+advisor_logo_url: {enabled: true, display_name: "Advisor Logo URL", category: advisor_information}
+advisor_website_url: {enabled: true, display_name: "Advisor Website URL", category: advisor_information}
+legacy_stories_page: {enabled: true, display_name: "Legacy Stories Page", category: advisor_information}
+confirmed_company_name: {enabled: true, display_name: "Confirmed Company Name", category: advisor_information}
+confirmed_company_domain: {enabled: true, display_name: "Confirmed Company Domain", category: advisor_information}
+confirmed_marketing_email: {enabled: true, display_name: "Confirmed Marketing Email", category: advisor_information}
+about_us_page_link: {enabled: true, display_name: "About Us Page Link", category: advisor_information}
+email_unsubscribe_link: {enabled: true, display_name: "Email Unsubscribe Link", category: advisor_information}
+disclosure: {enabled: true, display_name: "Disclosure", category: advisor_information}
+email_signature: {enabled: true, display_name: "Email Signature", category: advisor_information}
+bridgepoint_brochure: {enabled: true, display_name: "Bridge Point Brochure", category: advisor_information}
+
+meeting_link: {enabled: true, display_name: "Meeting Link", category: tools_and_payment}
+on_demand_webinar_link: {enabled: true, display_name: "On Demand Webinar Link", category: tools_and_payment}
+iepm_link: {enabled: true, display_name: "iEPM Link", category: tools_and_payment}
+stress_test_link: {enabled: true, display_name: "Stress Test Link", category: tools_and_payment}
+eplan_payment_link: {enabled: true, display_name: "E-Plan Payment Link", category: tools_and_payment}
+portal_url: {enabled: true, display_name: "Portal URL", category: tools_and_payment}
+estate_planning_made_easy_pdf: {enabled: true, display_name: "Estate Planning Made Easy PDF", category: tools_and_payment}
+
+event_date: {enabled: true, display_name: "Event Date", category: event}
+event_time: {enabled: true, display_name: "Event Time", category: event}
+event_topic: {enabled: true, display_name: "Event Topic", category: event}
+event_location_name: {enabled: true, display_name: "Event Location Name", category: event}
+event_location_address: {enabled: true, display_name: "Event Location Address", category: event}
+event_registration_url: {enabled: true, display_name: "Event Registration URL", category: event}
+estate_planning_strategy_session: {enabled: true, display_name: "Estate Planning Strategy Session", category: event}
+user_calendar: {enabled: true, display_name: "user calendar", category: event}
+
+video_kaizen_wealth_transfer: {enabled: true, display_name: "Video: Kai-Zen Wealth Transfer", category: vimeo}
+video_bridge: {enabled: true, display_name: "Video: Bridge", category: vimeo}
+video_neverstop: {enabled: true, display_name: "Video: Never Stop", category: vimeo}
+video_insurance_blp: {enabled: true, display_name: "Video: Insurance BLP", category: vimeo}
+video_21st_century_trust: {enabled: true, display_name: "Video: 21st Century Trust", category: vimeo}
+video_webinar_registration: {enabled: true, display_name: "Video: Webinar Registration", category: vimeo}
+video_estate_plan_intro: {enabled: true, display_name: "Video: eState Plan Intro", category: vimeo}
+
+video_two_choices_gif: {enabled: true, display_name: "Video: Two Choices", category: bombbomb}
+video_two_choices_thumbnail: {enabled: true, display_name: "Video: Two Choices Thumbnail", category: bombbomb}
+
+video_asset_elder_care_bridge: {enabled: true, display_name: "Video: Asset Based Elder Care Bridge", category: webprez}
+video_avoid_probate: {enabled: true, display_name: "Video: Avoid Probate with a Living Trust", category: webprez}
+video_taxfree_retirement: {enabled: true, display_name: "Video: Tax-Free Retirement", category: webprez}
+video_retirement_savings_risk: {enabled: true, display_name: "Video: Retirement Savings Risk", category: webprez}
+video_retirement_no_losses: {enabled: true, display_name: "Video: Retirement No Losses", category: webprez}
+video_triple_compound_interest: {enabled: true, display_name: "Video: Triple Compound Interest", category: webprez}
+video_taxfree_assets_family: {enabled: true, display_name: "Video: Tax-Free Assets Family", category: webprez}
+video_elder_care_tax_reserve: {enabled: true, display_name: "Video: Elder Care Tax Reserve", category: webprez}
+video_end_of_life_considerations: {enabled: true, display_name: "Video: End of Life Considerations", category: webprez}
+video_protect_retirement_volatility: {enabled: true, display_name: "Video: Protect Retirement Volatility", category: webprez}
+video_funeral_cash_reserve: {enabled: true, display_name: "Video: Funeral Cash Reserve", category: webprez}
+ltc_webprez_video: {enabled: true, display_name: "LTC Webprez video", category: webprez}
+
+# Present in the template, but intentionally blocked until their meanings are mapped.
+advisorsmartmoneyvideo1: {enabled: false, display_name: "advisor-smartmoney-video-1", category: unresolved}
+advisorsmartmoneyvideo2: {enabled: false, display_name: "advisor-smartmoney-video-2", category: unresolved}
+advisorsmartmoneyvideo3: {enabled: false, display_name: "advisor-smartmoney-video-3", category: unresolved}
+advisorsmartmoneyvideo4: {enabled: false, display_name: "advisor-smartmoney-video-4", category: unresolved}
+advisorsmartmoneyvideo5: {enabled: false, display_name: "advisor-smartmoney-video-5", category: unresolved}
+advisorvimeovideo1: {enabled: false, display_name: "advisor-vimeo-video-1", category: unresolved}
+advisorvimeovideo2: {enabled: false, display_name: "advisor-vimeo-video-2", category: unresolved}
+advisorvimeovideo3: {enabled: false, display_name: "advisor-vimeo-video-3", category: unresolved}
+advisorvimeovideo4: {enabled: false, display_name: "advisor-vimeo-video-4", category: unresolved}
+advisorvimeovideo5: {enabled: false, display_name: "advisor-vimeo-video-5", category: unresolved}
+advisorvimeovideo6: {enabled: false, display_name: "advisor-vimeo-video-6", category: unresolved}
+advisorvimeovideo7: {enabled: false, display_name: "advisor-vimeo-video-7", category: unresolved}
+advisorvimeovideo8: {enabled: false, display_name: "advisor-vimeo-video-8", category: unresolved}
+advisorvimeovideo9: {enabled: false, display_name: "advisor-vimeo-video-9", category: unresolved}
+advisorvimeovideo10: {enabled: false, display_name: "advisor-vimeo-video-10", category: unresolved}
+advisorvimeovideo11: {enabled: false, display_name: "advisor-vimeo-video-11", category: unresolved}
+

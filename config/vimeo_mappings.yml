@@ -1,0 +1,69 @@
+# Vimeo titles are matched exactly after trimming surrounding whitespace.
+# {advisor} is expanded to the exact advisor name supplied on the command line.
+named:
+  video_bridge:
+    aliases:
+      - "{advisor} - Bridge"
+      - "Bridge - {advisor}"
+      - "Bridge"
+
+  video_kaizen_wealth_transfer:
+    aliases:
+      - "{advisor} - Kai-Zen Wealth Transfer"
+      - "Kai-Zen Wealth Transfer - {advisor}"
+      - "Kai-Zen Wealth Transfer"
+
+  video_estate_plan_intro:
+    aliases:
+      - "{advisor}_eStatePlan™ Intro"
+      - "{advisor} - eStatePlan™ Intro"
+      - "eStatePlan™ Intro - {advisor}"
+      - "eStatePlan Intro - {advisor}"
+
+  video_insurance_blp:
+    aliases:
+      - "{advisor}_BLP REVISED"
+      - "{advisor} - BLP"
+      - "BLP - {advisor}"
+      - "BLP {advisor}"
+
+  video_webinar_registration:
+    aliases:
+      - "{advisor} - Registration Page"
+      - "Registration Page - {advisor}"
+
+  video_neverstop:
+    aliases:
+      - "{advisor} - NeverStop"
+      - "NeverStop - {advisor}"
+      - "B.Goldwater - NeverStop"
+
+  video_21st_century_trust:
+    aliases:
+      - "{advisor}_21st Century Trust Funding"
+      - "{advisor} - 21st Century Trust Funding"
+      - "21st Century Trust Funding - {advisor}"
+
+sequenced:
+  vimeo_01_built_for_rising_interest_rates:
+    aliases: ["01. Built for Rising Interest Rates"]
+  vimeo_02_as_an_alternative_to_fixed_assets:
+    aliases: ["02. As an Alternative to Fixed Assets"]
+  vimeo_03_kai_zen_for_executives:
+    aliases: ["03. Kai-Zen for Executives"]
+  vimeo_04_kai_zen_for_physicians:
+    aliases: ["04. Kai-Zen for Physicians"]
+  vimeo_05_the_greatest_wealth_transfer:
+    aliases: ["05. The Greatest Wealth Transfer"]
+  vimeo_06_the_next_best_thing_you_dont_want_to_miss:
+    aliases: ["06. The Next Best Thing You Don't Want to Miss"]
+  vimeo_07_kai_zen_60_seconds:
+    aliases: ["07. Kai-Zen 60 Seconds"]
+  vimeo_08_kai_zen_recruit_and_retain:
+    aliases: ["08. Kai-Zen Recruit & Retain"]
+  vimeo_09_kai_zen_for_individuals:
+    aliases: ["09. Kai-Zen for Individuals"]
+  vimeo_10_kai_zen_mortgage_analog:
+    aliases: ["10. Kai-Zen Mortgage Analog"]
+  vimeo_11_how_kai_zen_works:
+    aliases: ["11. How Kai-Zen Works"]
